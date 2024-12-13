@@ -1,0 +1,13 @@
+.same {
+    font-size: 38px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+
+.first {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.second {
+    background-color: #ffff00;
+}
